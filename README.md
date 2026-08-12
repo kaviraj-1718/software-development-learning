@@ -97,22 +97,3 @@ I use it to document what I learn, practice concepts through code, experiment wi
 
 ---
 
-# 📂 Repository Structure
-
-```text
-📦 software-development-learning
-│
-├── 📁 HTML
-├── 📁 CSS
-├── 📁 JavaScript
-├── 📁 React
-├── 📁 NodeJS
-├── 📁 Express
-├── 📁 MongoDB
-├── 📁 SQL
-├── 📁 Git-GitHub
-│
-├── 📁 Practice
-├── 📁 Experiments
-├── 📁 Notes
-└── 📁 Projects
