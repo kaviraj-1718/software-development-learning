@@ -8,15 +8,13 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=kaviraj-1718&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
 </div>
 
 ---
 
 ## 👨‍💻 About This Repository
 
-This repository represents my **continuous journey in software development**.
+This repository represents my **Continuous journey in Software development**.
 
 I use it to document what I learn, practice concepts through code, experiment with technologies, build projects, and continuously strengthen my technical foundation.
 
